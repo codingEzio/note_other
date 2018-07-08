@@ -1,15 +1,21 @@
 
 ### 初配置
-- git config --global user.name "USERNAME"
-- git config --global user.email "EMAIL_ADDRESS"
-- git config --global color.ui auto
-- less ~/.gitconfig 
+- ```git config --global user.name "USERNAME"```
+- ```git config --global user.email "EMAIL_ADDRESS"```
+- ```git config --global color.ui auto```
+- ```less ~/.gitconfig```
+
+### 微调 
+> *keyword* : <small>macOS, 中文文件名</small>
+
+- ```git config --global core.quotePath false``` 
+- ```git config --global core.precomposeunicode true```
 
 ### 建联系
-- ssh-keygen -t rsa -C "EMAIL_ADDRESS"
-	- less ~/.ssh/id_rsa.pub 将相应内容复制至 Github 的 SSH KEY 处
+- ```ssh-keygen -t rsa -C "EMAIL_ADDRESS"```
+	- ```less ~/.ssh/id_rsa.pub``` 将相应内容复制至 Github 的 SSH KEY 处
 	- 此命令最好置于用户主目录下
-- ssh -T git@github.com
+- ```ssh -T git@github.com``` 测试能否正常连通
 
 ### 首Repo
 - 建立后 复制其 Git 地址 并 ```git clone``` 之 
