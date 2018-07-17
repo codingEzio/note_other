@@ -6,10 +6,11 @@
 - ```less ~/.gitconfig```
 
 ### 微调 
-> *keyword* : <small>macOS, 中文文件名</small>
+> *keyword* : <small>macOS, 中文文件名, 大文件上傳</small>
 
 - ```git config --global core.quotePath false``` 
 - ```git config --global core.precomposeunicode true```
+- <del>```git config --global http.postBuffer 157286400```</del> <small>(useless)</small>
 
 ### 建联系
 - ```ssh-keygen -t rsa -C "EMAIL_ADDRESS"```
