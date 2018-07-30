@@ -1,8 +1,8 @@
-> 再提: *不遵從原文*.
+> *不遵從原文*.
 
-| Author | Platform | Link | 
-| :---: | :---: | --- | 
-| \  | 中文維基百科 | [https://zh.wikipedia.org/wiki/計算複雜性理論](https://zh.wikipedia.org/wiki/計算複雜性理論) |
+| Platform | Link | 
+| :---: | --- | 
+| *中文維基* | [計算複雜性理論](https://zh.wikipedia.org/wiki/計算複雜性理論) |
 
 -----------------
 
