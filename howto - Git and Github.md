@@ -42,7 +42,8 @@
 | ```git commit -m 简短介绍```  | \ |
 | ```git commit``` | 详尽记录 <small>(头行简述 自第三行详述)</small> |
 | ```git add FILENAME``` | 须键入于每次修改后 |
-| ```git rm FILENAME``` | 将其丢出暂存区 |
+| ```git rm FILENAME``` | <del>将其丢出暂存区</del> |
+| ```git reset FILENAME``` | 将文件还原为 *Untracked*, 适用于 ```add``` 后 想要 undo 的情形 |
 | ```git push``` | 推至 *Github* |
 
 ### 分支
