@@ -2,7 +2,7 @@
 
 ### Info 
 | Author | Platform | Link | More | 
-| --- | --- | --- | 
+| --- | --- | --- | --- | 
 | *Charles Chu* | Medium.com | [Use metaphorical-scaffolding to learn hard stuff](https://medium.com/the-polymath-project/use-metaphorical-scaffolding-to-learn-hard-stuff-850b5225a0f0) |  [Blog](https://thepolymathproject.com/blog/) / [Medium](https://medium.com/@mmeditations) |
 
 -----------------
@@ -11,8 +11,8 @@
 
 - It’s a common belief that ideas from, say, 
     > <q>*quantum physics or behavioral neuroscience are headache-inducing and hard to understand*</q>. 
-    >> This is True, but it took me years to realize its ture for **everyone** —— 
-    >>> this stuff is *supposed* to be hard to understand, even for experts.
+    >> This is True, but it took me years to realize its ture for **everyone** 
+    >>> —— this stuff is *supposed* to be hard to understand, even for experts.
     
 - It’s easy for me to forget that humankind is still really, really young. 
     > Brutus gutted Caesar with a knife only 60\~70 generations ago,
