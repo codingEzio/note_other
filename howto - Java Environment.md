@@ -20,6 +20,8 @@
 - 安装插件 
     - *Language Support for Java(TM) by Red Hat*
     - *Code Runner*
+        > 在 ```cd $dir``` 后添加 ```&& rm -fv java $fileNameWithoutExt```
+
 - 将以下写入 **User Settings**
     > ```"java.home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home"```<br>```“java.errors.incompleteClasspath.severity": "ignore",```
 
