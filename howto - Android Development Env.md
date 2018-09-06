@@ -28,6 +28,15 @@
 ### about *Android Studio* 
 - 期间下载 Android *SDK* 时注意配置 Proxy  <small>( 你需要 *SSR* 或其他方式越墙 )</small>
 
+### FAQ
+- **”正常”的网络环境可以解决多数问题**
+- 新建的项目构建失败 
+    + 将默认设置下的 ```Use embedded JDK``` 修改为下载的 *JDK* (指定路径)
+        - 此设置通过右键项目 自 ```SDK Location``` 找到 ```JDK location```  
+    + 为确保万无一失, 在 ```.bash_profile``` 也写入 *JDK* 的路径
+        - ```JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home``` 
+        - ```source ~/.bash_profile```
+
 ### 此文没有讲哪些内容 ?
 > 在我补充之前 你需要自己查阅资料噢 🙂
 
@@ -40,3 +49,4 @@
 
 ### 参考链接
 - [快速使用 VSCode 进行 Java 编程](https://juejin.im/post/5ac193cd6fb9a028d208161c)
+- [Execution Failed for task :app:compileDebugJavaWithJavac](https://stackoverflow.com/a/37896157)
