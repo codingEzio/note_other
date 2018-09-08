@@ -1,7 +1,7 @@
 ### Info 
 
 | Author | Platform | Link |
-| :---: | --- | --- | --- | 
+| :---: | --- | --- |
 | / | visual-paradigm.com | [什么是实体关系图(ERD) ?](https://www.visual-paradigm.com/cn/guide/data-modeling/what-is-entity-relationship-diagram/#erd-data-models) |
 
 -----------------
@@ -38,5 +38,5 @@
 
 ### 在线绘制示例 
 
-![Example](./img/001_erg_onlinedraw_example.png)
+- ![Example](./img/001_erg_onlinedraw_example.png)
 
