@@ -37,7 +37,7 @@
         - ```JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home``` 
         - ```source ~/.bash_profile```
 - 构建失败的另一个解决方式 
-    > ![ ](002_android_dev_build_fail.jpg)
+    > ![ ](./img/002_android_dev_build_fail.jpg)
 - 应用安装失败 
     1. 点击菜单栏的 ```Build``` 
     2. Do ```Clean Project``` then ```Build APK(s)``` 
