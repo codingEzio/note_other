@@ -36,6 +36,11 @@
     + 为确保万无一失, 在 ```.bash_profile``` 也写入 *JDK* 的路径
         - ```JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home``` 
         - ```source ~/.bash_profile```
+- 构建失败的另一个解决方式 
+    > ![ ](002_android_dev_build_fail.jpg)
+- 应用安装失败 
+    1. 点击菜单栏的 ```Build``` 
+    2. Do ```Clean Project``` then ```Build APK(s)``` 
 
 ### 此文没有讲哪些内容 ?
 > 在我补充之前 你需要自己查阅资料噢 🙂
