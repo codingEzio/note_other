@@ -1,7 +1,8 @@
 
 ### ```brew``` 
-- ```brew install nnn```
-- ```brew install ffmpeg```
+- ```brew install nnn``` (file explorer)
+- ```brew install ffmpeg``` 
+- ```brew install kakoune``` (terminal editer) (launch by ```kak```)
 
 ### ```pip```
 - ```pip3 install youtube-dl```
