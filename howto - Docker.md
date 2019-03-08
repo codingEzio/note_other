@@ -15,6 +15,8 @@
     - It's okay if u wanna use GUI instead <small>( use **ID** instead of **e-mail** )</small>.
 3. *Pull* it.
 
-### Prerequisites
+-----------
 
-- 
+### Note 
+- I'll keep this file as brief as possible, 
+- since I've already taken the notes for the *Practical Docker with Python* <small>( book )</small). 
